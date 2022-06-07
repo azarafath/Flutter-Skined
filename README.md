@@ -1,17 +1,11 @@
-# skined
+# Skined - Aplikasi Deteksi Penyakit Kulit Menggunakan Artificial Intelligence
 
-A new Flutter project.
+Proyek Akhir (TA) dari program Kampus Merdeka Studi Independen Bersertifikat - AI Mastery Program Orbit Future Academy
+Anggota :
+- Ahmad Zakaria Fathoni (Mobile Flutter)
+- Riyagung Nuryusufa T.A.P (Data & Machine Learning)
+- Kholan Mustaqim (Data & Machine Learning)
+- Muhammad Afif (UI/UX)
+- Dames Adriyana (UI/UX)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Flutter-Skined" 
+<b>NOTE : Main Program Code and assets files are not shared</b>
