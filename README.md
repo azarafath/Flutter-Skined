@@ -8,4 +8,9 @@ Anggota :
 - Muhammad Afif (UI/UX)
 - Dames Adriyana (UI/UX)
 
+
+# Screnshoot
+![image](https://user-images.githubusercontent.com/60414357/172746018-b5be8436-9c8c-4723-8285-79ef7a7f588d.png)
+
+
 <b>NOTE : Main Program Code and assets files are not shared</b>
