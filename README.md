@@ -19,5 +19,3 @@ Anggota :
   <img src="https://user-images.githubusercontent.com/60414357/172747339-f8c29fbb-5255-4df2-a071-8ebb7a88ce9b.png" height="270em" />
 </p>
 
-
-<b>NOTE : Main Program Code and assets files are not shared</b>

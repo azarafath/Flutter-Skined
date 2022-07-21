@@ -45,6 +45,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# disable upload assets folder and lib folder
-/lib
-/assets
+# # disable upload assets folder and lib folder
+# /lib
+# /assets
